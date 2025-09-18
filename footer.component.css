@@ -1,0 +1,36 @@
+.footer{
+   position: fixed;
+  left: 0;
+  bottom: 0; 
+  width: 100%;
+ 
+  text-align: center;
+}
+.row{
+  background-color: #333;
+  color: #fff;
+}
+.abc{
+  
+  font-size: 20px;
+  margin-top: 70px;
+  margin-left: 50px;
+  color: rgb(114, 114, 248);
+}
+.xyz{
+  font-size: 30px;
+  margin-top: 10px;
+  
+  color: rgb(114, 114, 248);
+}
+.def{
+  font-size: 30px;
+  margin-top: 10px;
+ 
+  color: rgb(114, 114, 248);
+}
+img{
+  width: 30px;
+  height: 30px;
+ margin-left: 50px;
+}
